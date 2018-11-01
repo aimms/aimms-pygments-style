@@ -19,7 +19,7 @@ Please run the following in the Python Interpreter:
 
 And verify that you have a new Pygments style named `aimmslexer`
 
-Modify the style
------------------
+Modify style rules
+-------------------
 
 To modify it, please take a look at the file [aimmslexer.py](https://gitlab.com/ArthurdHerbemont/aimms-pygments-style/tree/master/style) and [Pygments Style documentation](http://pygments.org/docs/styles/)
