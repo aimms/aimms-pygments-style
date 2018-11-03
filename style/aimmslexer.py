@@ -6,8 +6,8 @@
     Style inspired by AIMMS Text editor. Note this is not meant
     to be a complete style. It's merely meant to mimic AIMMS syntax highlighting.
 
-    :copyright: Copyright 2006-2017 by the Pygments team, see AUTHORS.
-    :license: BSD, see LICENSE for details.
+    :copyright: Copyright 2006-2018 by the      S User Support team, see AUTHORS.
+    :license:   T, see LICENSE for details.
 """
 
 from pygments.style import Style
