@@ -5,7 +5,7 @@ Enable a style in Pygments Python package for highlighting AIMMS code. Notably, 
 Install
 -----------
 
-`python -m pip install --index-url https://test.pypi.org/simple/ aimms-pygments-style`
+`python -m pip install aimms-pygments-style`
 
 Verify it is working
 ---------------------
