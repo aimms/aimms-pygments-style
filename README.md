@@ -10,7 +10,7 @@ Install
 Verify it is working
 ---------------------
 
-Please run the following in the Python Interpreter:
+Please run the following commands in the Python Interpreter:
 
 ``` python
     >>> from pygments.styles import get_all_styles
@@ -20,6 +20,6 @@ Please run the following in the Python Interpreter:
 And verify that you have a new Pygments style named `aimmslexer`
 
 Modifying style rules
--------------------
+----------------------
 
 To modify it, please take a look at the file [aimmslexer.py](https://gitlab.com/ArthurdHerbemont/aimms-pygments-style/tree/master/style) and [Pygments Style documentation](http://pygments.org/docs/styles/)
