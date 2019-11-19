@@ -19,6 +19,16 @@ Please run the following commands in the Python Interpreter:
 
 And verify that you have a new Pygments style named `aimmslexer`
 
+Using it in your Sphinx latex output
+--------------------------------------
+To use this feshly installed Pygment style, you finally need to add the following line to your conf.py file:
+
+``` python
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'aimmslexer'
+
+```
+
 Modifying style rules
 ----------------------
 
