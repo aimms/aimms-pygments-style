@@ -21,7 +21,8 @@ And verify that you have a new Pygments style named `aimmslexer`
 
 Using it in your Sphinx latex output
 --------------------------------------
-To use this feshly installed Pygment style, you finally need to add the following line to your conf.py file:
+
+To use this freshly installed Pygment style, you finally need to add the following line to your conf.py file:
 
 ``` python
 # The name of the Pygments (syntax highlighting) style to use.

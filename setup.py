@@ -4,7 +4,7 @@ import setuptools
 import sys
 
 
-_version = '2018.11.1'
+_version = '2020.07.8'
 _packages = ['style']
 
 _short_description = "aimms-pygments-style is a colorful style for Pygments, especially adapted for AIMMS language"
